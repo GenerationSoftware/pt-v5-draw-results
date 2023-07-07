@@ -5,6 +5,8 @@
     "tier": 0,
     "prizeIndex": 0,
     "claimed": false,
-    "amount": "591461607018396600"
+    "amount": "591461607018396600",
+    "userTwab": "9931234076",
+    "totalSupplyTwab": "736265443831"
   }
 ]
