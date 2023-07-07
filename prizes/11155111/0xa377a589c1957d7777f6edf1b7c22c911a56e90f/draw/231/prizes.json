@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x070905d9121ed095013f8403ecb2c6ae4104e0ac",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "34783909584410331",
+    "userTwab": "9985010495",
+    "totalSupplyTwab": "219829158818"
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x3714cf2183cfb4283e1c9daf5a3a253db292c30c",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "1750487487230674550",
+    "userTwab": "9996000599",
+    "totalSupplyTwab": "219829158818"
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0x10bc24f9e7e80b4342c62a3a7a46d9f6b78d39ef",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "1750487487230674550",
+    "userTwab": "999600",
+    "totalSupplyTwab": "13994838"
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0x10bc24f9e7e80b4342c62a3a7a46d9f6b78d39ef",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "34783909584410331",
+    "userTwab": "999600",
+    "totalSupplyTwab": "13994838"
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0x10bc24f9e7e80b4342c62a3a7a46d9f6b78d39ef",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "34783909584410331",
+    "userTwab": "999600",
+    "totalSupplyTwab": "13994838"
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0xd43e5593b938ba89c381da3418b36346b3c50956",
+    "tier": 0,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "7154344278685156400",
+    "userTwab": "998900",
+    "totalSupplyTwab": "13994684"
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0xd5ba9911bf6e7ff879d10f4875cec5aaf6e76acc",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "1750487487230674550",
+    "userTwab": "999300",
+    "totalSupplyTwab": "13994838"
+  }
+]
