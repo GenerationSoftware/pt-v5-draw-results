@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x0ec780be0191f8a364faccde91d13be6f96632be",
+    "winner": "0x1d13e595678ccc444927c5fc28258c6c955ec841",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "30727629895634",
+    "userTwab": "9952112627",
+    "totalSupplyTwab": "1119353750988",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0ec780be0191f8a364faccde91d13be6f96632be",
+    "winner": "0x3224ce81a27accee8bbd2106825bd7d72de8c819",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "15791894822242759",
+    "userTwab": "9955098858",
+    "totalSupplyTwab": "1119353750988",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0ec780be0191f8a364faccde91d13be6f96632be",
+    "winner": "0x3893feb91e62cb4c9b24a3f3e9216e5739a37924",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "15791894822242759",
+    "userTwab": "9905445119",
+    "totalSupplyTwab": "1119353750988",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0ec780be0191f8a364faccde91d13be6f96632be",
+    "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "30727629895634",
+    "userTwab": "365732793953",
+    "totalSupplyTwab": "1119353750988",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0ec780be0191f8a364faccde91d13be6f96632be",
+    "winner": "0xeec5af567738a6a2492868bd10031febbbf212ab",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "30727629895634",
+    "userTwab": "9941170775",
+    "totalSupplyTwab": "1119353750988",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
