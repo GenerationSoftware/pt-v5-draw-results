@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xcac9b12498f3b8c2f4674a8818b54cddbef6ff79",
+    "tier": 4,
+    "prizeIndex": 156,
+    "claimed": false,
+    "amount": "5561627196756350",
+    "userTwab": "9982015291",
+    "totalSupplyTwab": "489579444076",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xcac9b12498f3b8c2f4674a8818b54cddbef6ff79",
+    "tier": 4,
+    "prizeIndex": 204,
+    "claimed": false,
+    "amount": "5561627196756350",
+    "userTwab": "9982015291",
+    "totalSupplyTwab": "489579444076",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xcac9b12498f3b8c2f4674a8818b54cddbef6ff79",
+    "tier": 4,
+    "prizeIndex": 224,
+    "claimed": false,
+    "amount": "5561627196756350",
+    "userTwab": "9982015291",
+    "totalSupplyTwab": "489579444076",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xcac9b12498f3b8c2f4674a8818b54cddbef6ff79",
+    "tier": 5,
+    "prizeIndex": 7,
+    "claimed": false,
+    "amount": "1166147638029557",
+    "userTwab": "9982015291",
+    "totalSupplyTwab": "591694007217",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xcac9b12498f3b8c2f4674a8818b54cddbef6ff79",
+    "tier": 5,
+    "prizeIndex": 26,
+    "claimed": false,
+    "amount": "1166147638029557",
+    "userTwab": "9982015291",
+    "totalSupplyTwab": "591694007217",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
