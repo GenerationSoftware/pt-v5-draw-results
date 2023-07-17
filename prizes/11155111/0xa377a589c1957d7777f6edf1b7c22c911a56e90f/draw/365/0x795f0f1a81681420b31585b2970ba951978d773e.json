@@ -7,6 +7,10 @@
     "claimed": false,
     "amount": "422960398781",
     "userTwab": "9950122304",
-    "totalSupplyTwab": "1117401669732"
+    "totalSupplyTwab": "1117401669732",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
   }
 ]

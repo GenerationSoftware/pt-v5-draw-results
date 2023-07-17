@@ -1,0 +1,100 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x0c74886a93475dfcc88870f97a542d7b1362a92d",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "31111613409283401",
+    "userTwab": "9992002799",
+    "totalSupplyTwab": "387464880935",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x0c74886a93475dfcc88870f97a542d7b1362a92d",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "104060614756587",
+    "userTwab": "9992002799",
+    "totalSupplyTwab": "387464880935",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "31111613409283401",
+    "userTwab": "167586199365",
+    "totalSupplyTwab": "387464880935",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0x10bc24f9e7e80b4342c62a3a7a46d9f6b78d39ef",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "31111613409283401",
+    "userTwab": "999600",
+    "totalSupplyTwab": "14996398",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0xd5ba9911bf6e7ff879d10f4875cec5aaf6e76acc",
+    "tier": 1,
+    "prizeIndex": 3,
+    "claimed": false,
+    "amount": "31111613409283401",
+    "userTwab": "999300",
+    "totalSupplyTwab": "14996398",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0xeac160bf334865b5724674621da0ccdd9adae4aa",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "31111613409283401",
+    "userTwab": "999100",
+    "totalSupplyTwab": "14996398",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x8faf98698e4ff29149a8a9d06db20e3509f3754b",
+    "winner": "0xfc1bc320b93cd1111b3e7d7139fb41f595ea3ece",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "104060614756587",
+    "userTwab": "1000000",
+    "totalSupplyTwab": "14996398",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
