@@ -1,0 +1,86 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": true,
+    "amount": "1727773477880679465",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "436231011345",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 4,
+    "prizeIndex": 43,
+    "claimed": true,
+    "amount": "3648983603791841",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "397365262378",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 4,
+    "prizeIndex": 59,
+    "claimed": true,
+    "amount": "3648983603791841",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "397365262378",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 4,
+    "prizeIndex": 180,
+    "claimed": true,
+    "amount": "3648983603791841",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "397365262378",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 5,
+    "prizeIndex": 5,
+    "claimed": false,
+    "amount": "765109465311192",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "397365262378",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xb279e3c35240e2d0a98738934c1480babc76552d",
+    "tier": 5,
+    "prizeIndex": 21,
+    "claimed": false,
+    "amount": "765109465311192",
+    "userTwab": "9993002099",
+    "totalSupplyTwab": "397365262378",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
