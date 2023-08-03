@@ -1,0 +1,44 @@
+[
+  {
+    "vault": "0x06b36307e4da41f0c42efb7d7abc02df0c8b5c49",
+    "winner": "0x725e613f1816395dd453dc6394b1794a73152813",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "32856445145562591",
+    "userTwab": "991688482389114916919798",
+    "totalSupplyTwab": "1112047629348249471419581",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x06b36307e4da41f0c42efb7d7abc02df0c8b5c49",
+    "winner": "0x725e613f1816395dd453dc6394b1794a73152813",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "171027452470",
+    "userTwab": "991688482389114916919798",
+    "totalSupplyTwab": "1112047629348249471419581",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x06b36307e4da41f0c42efb7d7abc02df0c8b5c49",
+    "winner": "0x9c3147f8db3c96c8c5ed5d2c7da05dcb3968baf3",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "32856445145562591",
+    "userTwab": "20000000000000000000000",
+    "totalSupplyTwab": "1112047629348249471419581",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
