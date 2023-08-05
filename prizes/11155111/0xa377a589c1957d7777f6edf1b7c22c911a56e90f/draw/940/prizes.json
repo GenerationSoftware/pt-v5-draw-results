@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "34341554532836531",
+    "userTwab": "177674042436",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "146178333181495",
+    "userTwab": "177674042436",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xa9ae7ff4b1ab1137b614643721b178088fbbe629",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "146178333181495",
+    "userTwab": "9998000100",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "34341554532836531",
+    "userTwab": "334285444185",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xf2f511fe6c7db7a6d27bd4de19f477a76e7fd233",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "34341554532836531",
+    "userTwab": "29817840892",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
