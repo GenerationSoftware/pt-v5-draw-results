@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x4c6e1303a7ec7f29eccfbf9baa4842bd286660f3",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "30096822506446",
+    "userTwab": "9988006597",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0x725e613f1816395dd453dc6394b1794a73152813",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "30096822506446",
+    "userTwab": "391824556951",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xddf1a2463636e7d154b23ae8fe8a53b6b7c3d2c9",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "23249227279948015",
+    "userTwab": "9984011994",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "30096822506446",
+    "userTwab": "334285444185",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x0771ba4b988c66afb02f9adf21f6e3a14d33c24e",
+    "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "30096822506446",
+    "userTwab": "334285444185",
+    "totalSupplyTwab": "1163894591103",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
