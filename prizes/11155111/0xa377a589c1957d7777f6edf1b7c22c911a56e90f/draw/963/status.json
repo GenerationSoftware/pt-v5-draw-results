@@ -1,8 +1,8 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1691349265053,
-  "updatedAt": 1691349292024,
-  "runtime": 26971,
+  "createdAt": 1691349922345,
+  "updatedAt": 1691349932840,
+  "runtime": 10495,
   "meta": {
     "numberOfTiers": 3,
     "prizeLength": 2,
