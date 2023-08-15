@@ -1,0 +1,16 @@
+[
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0x03685bed5cac07cadbcee7afb687ea69b292d16b",
+    "tier": 3,
+    "prizeIndex": 7,
+    "claimed": false,
+    "amount": "9097880986343996",
+    "userTwab": "9966056040",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
