@@ -1,8 +1,8 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1692160856366,
-  "updatedAt": 1692160897393,
-  "runtime": 41027,
+  "createdAt": 1692161515061,
+  "updatedAt": 1692161534606,
+  "runtime": 19545,
   "meta": {
     "numberOfTiers": 4,
     "prizeLength": 6,
@@ -20,13 +20,13 @@
       "3": "1"
     },
     "vaultPortions": {
-      "0x2682c2ff5510ff943f2ebfd0a665e3203a9bee4e": "17864752645510456",
+      "0x2682c2ff5510ff943f2ebfd0a665e3203a9bee4e": "20880421109674504",
       "0x80f5984ad748878c9822af1231deef7466ad85bf": "0",
-      "0xa036647ec8c956475f8b8fe473ec49f959846fa1": "7348930520962",
-      "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423": "108314694776151",
+      "0xa036647ec8c956475f8b8fe473ec49f959846fa1": "7326365463780",
+      "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423": "107982112058932",
       "0xc7e0df4a00f9a99012a828dbd2a26dc8c01e624e": "0",
       "0xdc140f0193a9899982c8446c249a94dea147c20b": "0",
-      "0xf4236b70bfc155b65a5571a5e4f8961107abfce6": "982019583729192428"
+      "0xf4236b70bfc155b65a5571a5e4f8961107abfce6": "979004270412802782"
     }
   }
 }
