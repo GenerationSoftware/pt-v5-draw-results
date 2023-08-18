@@ -4,10 +4,10 @@
     "winner": "0x1caa356f329dfbb7b444918b742384f05146f5a4",
     "tier": 3,
     "prizeIndex": 1,
-    "claimed": true,
+    "claimed": false,
     "amount": "1840578813215867846",
     "userTwab": "9898513387",
-    "totalSupplyTwab": "190575146140",
+    "totalSupplyTwab": "190681881006",
     "isTimeRangeSafe": {
       "isTimeRangeSafe": true,
       "isTimeRangeSafeStartTimePlusOne": true
