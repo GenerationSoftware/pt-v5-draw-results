@@ -26,33 +26,5 @@
       "isTimeRangeSafe": true,
       "isTimeRangeSafeStartTimePlusOne": true
     }
-  },
-  {
-    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
-    "winner": "0x6b6a0c35866fe99b857c09a81611c0bca33a75a9",
-    "tier": 2,
-    "prizeIndex": 0,
-    "claimed": false,
-    "amount": "3577421533839347511",
-    "userTwab": "998201529184",
-    "totalSupplyTwab": "20241088193926",
-    "isTimeRangeSafe": {
-      "isTimeRangeSafe": true,
-      "isTimeRangeSafeStartTimePlusOne": true
-    }
-  },
-  {
-    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
-    "winner": "0xd69c4ad9e7466356bcfea312cbb9a8a0c9aeb1c0",
-    "tier": 2,
-    "prizeIndex": 1,
-    "claimed": false,
-    "amount": "3577421533839347511",
-    "userTwab": "999100359916",
-    "totalSupplyTwab": "20241088193926",
-    "isTimeRangeSafe": {
-      "isTimeRangeSafe": true,
-      "isTimeRangeSafeStartTimePlusOne": true
-    }
   }
 ]
