@@ -1,7 +1,7 @@
 name: CronJob
 on:
   schedule:
-    - cron: "*/5 * * * *" # every 5 mins
+    - cron: "*/30 * * * *" # every 30 mins
   push:
 env:
   ETHEREUM_GOERLI_RPC_URL: ${{secrets.ETHEREUM_GOERLI_RPC_URL}}
