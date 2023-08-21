@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x2682c2ff5510ff943f2ebfd0a665e3203a9bee4e",
+    "winner": "0x155268409ba858567b473cf4889b31caf9765182",
+    "tier": 3,
+    "prizeIndex": 3,
+    "claimed": false,
+    "amount": "1840578813215867846",
+    "userTwab": "9883676006",
+    "totalSupplyTwab": "190681881006",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x2682c2ff5510ff943f2ebfd0a665e3203a9bee4e",
+    "winner": "0x1caa356f329dfbb7b444918b742384f05146f5a4",
+    "tier": 3,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "1840578813215867846",
+    "userTwab": "9898513387",
+    "totalSupplyTwab": "190681881006",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x2682c2ff5510ff943f2ebfd0a665e3203a9bee4e",
+    "winner": "0xfe8d4cd3a79d7ce7c8eba7b1576c59aa075d1f53",
+    "tier": 3,
+    "prizeIndex": 7,
+    "claimed": false,
+    "amount": "1840578813215867846",
+    "userTwab": "9887630465",
+    "totalSupplyTwab": "190681881006",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x4a24356b9c57d9b09403964ba9523d0bc7a5e336",
+    "tier": 2,
+    "prizeIndex": 4,
+    "claimed": false,
+    "amount": "9663038769383306193",
+    "userTwab": "998900549835",
+    "totalSupplyTwab": "21180122589467",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
+    "tier": 3,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "1840578813215867846",
+    "userTwab": "2999700010000",
+    "totalSupplyTwab": "24777344783168",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]

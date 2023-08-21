@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0x61c5b30ede000d4c26ae003db2b7376ab6481901",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "96657375325460391",
+    "userTwab": "9973035070",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0x6d9cca530ec73758f851f6c89ec471322698b3f0",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "96657375325460391",
+    "userTwab": "9997000299",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0x8b29b7fd0b6b6b4ca32c1d9920587f57175cdc2a",
+    "tier": 2,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "96657375325460391",
+    "userTwab": "9970043459",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0xcbd14c37a4e605923fe5b42e620b35ac5b646426",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "96657375325460391",
+    "userTwab": "9990004498",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xb634839ac5c7ddcf8523ba7cc2a9211f4f107423",
+    "winner": "0xe993be849501555b89ea3766288c388c917d4088",
+    "tier": 2,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "96657375325460391",
+    "userTwab": "9999000000",
+    "totalSupplyTwab": "389270833927",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
