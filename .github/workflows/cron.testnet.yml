@@ -1,7 +1,7 @@
 name: CronJob
 on:
   schedule:
-    - cron: "*/30 * * * *" # every 30 mins
+    - cron: "*/60 * * * *" # every 60 mins
   push:
 env:
   ETHEREUM_GOERLI_RPC_URL: ${{secrets.ETHEREUM_GOERLI_RPC_URL}}
@@ -32,7 +32,7 @@ jobs:
           install-command: yarn
       - name: Install PoolTogether V5 CLI
         run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.36
+          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.38
           echo "$(npm -g bin)" >> $GITHUB_PATH
       # -------------------------------------------------------- #
       # Mumbai
