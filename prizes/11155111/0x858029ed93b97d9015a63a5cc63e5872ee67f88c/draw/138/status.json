@@ -1,13 +1,13 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1692699160669,
-  "updatedAt": 1692699672879,
-  "runtime": 513,
+  "createdAt": 1692700194567,
+  "updatedAt": 1692701009421,
+  "runtime": 815,
   "meta": {
     "numVaults": 7,
     "numTiers": 5,
     "numAccounts": 3150,
-    "numPrizes": 51,
+    "numPrizes": 50,
     "amountsTotal": "56877164639113058734904",
     "tierPrizeAmounts": {
       "0": "53847313580808615776500",
