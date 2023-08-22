@@ -17,7 +17,7 @@ jobs:
       max-parallel: 1
       matrix:
         node: ["18.16.0"]
-        os: [ubuntu-latest-m]
+        os: [ubuntu-latest]
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -32,7 +32,7 @@ jobs:
           install-command: yarn
       - name: Install PoolTogether V5 CLI
         run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.38
+          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.39
           echo "$(npm -g bin)" >> $GITHUB_PATH
       # -------------------------------------------------------- #
       # Mumbai
