@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x81fcd6bbe86ad781e1338a33ca9ef9773638077e",
+    "tier": 4,
+    "prizeIndex": 43,
+    "claimed": false,
+    "amount": "208680470158528173",
+    "userTwab": "998301359320",
+    "totalSupplyTwab": "20241167115893",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x81fcd6bbe86ad781e1338a33ca9ef9773638077e",
+    "tier": 4,
+    "prizeIndex": 145,
+    "claimed": false,
+    "amount": "208680470158528173",
+    "userTwab": "998301359320",
+    "totalSupplyTwab": "20241167115893",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x81fcd6bbe86ad781e1338a33ca9ef9773638077e",
+    "tier": 5,
+    "prizeIndex": 17,
+    "claimed": false,
+    "amount": "43755582452594617",
+    "userTwab": "998301359320",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x81fcd6bbe86ad781e1338a33ca9ef9773638077e",
+    "tier": 5,
+    "prizeIndex": 80,
+    "claimed": false,
+    "amount": "43755582452594617",
+    "userTwab": "998301359320",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x81fcd6bbe86ad781e1338a33ca9ef9773638077e",
+    "tier": 5,
+    "prizeIndex": 104,
+    "claimed": false,
+    "amount": "43755582452594617",
+    "userTwab": "998301359320",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]

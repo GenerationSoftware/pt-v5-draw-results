@@ -1,0 +1,492 @@
+[
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 3,
+    "prizeIndex": 13,
+    "claimed": false,
+    "amount": "1168287772262407847",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "30000461813362372489258",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 3,
+    "prizeIndex": 14,
+    "claimed": false,
+    "amount": "1168287772262407847",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "30000461813362372489258",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 3,
+    "prizeIndex": 21,
+    "claimed": false,
+    "amount": "1168287772262407847",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "30000461813362372489258",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 54,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 87,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 103,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 116,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 127,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 128,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 194,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 211,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 217,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 224,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 240,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 241,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 254,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 10,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 47,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 50,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 57,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 95,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 102,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0x80f5984ad748878c9822af1231deef7466ad85bf",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 106,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "29991000999950000980003",
+    "totalSupplyTwab": "29999329161597235070800",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 3,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 139,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 174,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 4,
+    "prizeIndex": 234,
+    "claimed": false,
+    "amount": "193378909318858143",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 4,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 11,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 45,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 61,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 71,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 81,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  },
+  {
+    "vault": "0xf4236b70bfc155b65a5571a5e4f8961107abfce6",
+    "winner": "0x93146d9978d286ee085ba68ee1786a0b6eda64ec",
+    "tier": 5,
+    "prizeIndex": 87,
+    "claimed": false,
+    "amount": "40547190663631546",
+    "userTwab": "2300000000000",
+    "totalSupplyTwab": "20241148283456",
+    "isTimeRangeSafe": {
+      "isTimeRangeSafe": true,
+      "isTimeRangeSafeStartTimePlusOne": true
+    }
+  }
+]
