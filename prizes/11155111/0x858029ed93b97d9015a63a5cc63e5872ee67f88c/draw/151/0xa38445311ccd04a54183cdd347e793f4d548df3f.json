@@ -7,7 +7,7 @@
     "claimed": true,
     "amount": "743100489387247575",
     "userTwab": "19987003599450049997300",
-    "totalSupplyTwab": "58129663294766939728400",
+    "totalSupplyTwab": "29999329161597235070800",
     "isTimeRangeSafe": {
       "isTimeRangeSafe": true,
       "isTimeRangeSafeStartTimePlusOne": true
@@ -18,10 +18,10 @@
     "winner": "0xa38445311ccd04a54183cdd347e793f4d548df3f",
     "tier": 4,
     "prizeIndex": 1,
-    "claimed": false,
+    "claimed": true,
     "amount": "150049137280117299",
     "userTwab": "19987003599450049997300",
-    "totalSupplyTwab": "170650999827445758358800",
+    "totalSupplyTwab": "29999329161597235070800",
     "isTimeRangeSafe": {
       "isTimeRangeSafe": true,
       "isTimeRangeSafeStartTimePlusOne": true
@@ -32,10 +32,10 @@
     "winner": "0xa38445311ccd04a54183cdd347e793f4d548df3f",
     "tier": 4,
     "prizeIndex": 26,
-    "claimed": false,
+    "claimed": true,
     "amount": "150049137280117299",
     "userTwab": "19987003599450049997300",
-    "totalSupplyTwab": "170650999827445758358800",
+    "totalSupplyTwab": "29999329161597235070800",
     "isTimeRangeSafe": {
       "isTimeRangeSafe": true,
       "isTimeRangeSafeStartTimePlusOne": true
