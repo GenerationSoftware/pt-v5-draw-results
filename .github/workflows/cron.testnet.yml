@@ -4,10 +4,10 @@ on:
     - cron: "*/15 * * * *" # every 15 mins
   push:
 env:
+  OPTIMISM_MAINNET_RPC_URL: ${{secrets.OPTIMISM_MAINNET_RPC_URL}}
   ETHEREUM_GOERLI_RPC_URL: ${{secrets.ETHEREUM_GOERLI_RPC_URL}}
   ETHEREUM_SEPOLIA_RPC_URL: ${{secrets.ETHEREUM_SEPOLIA_RPC_URL}}
   OPTIMISM_GOERLI_RPC_URL: ${{secrets.OPTIMISM_GOERLI_RPC_URL}}
-  POLYGON_MUMBAI_RPC_URL: ${{secrets.POLYGON_MUMBAI_RPC_URL}}
   NODE_OPTIONS: "--max_old_space_size=32768"
 permissions: write-all
 jobs:
@@ -33,26 +33,17 @@ jobs:
           install-command: yarn
       - name: Install PoolTogether V5 CLI
         run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.44
+          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.45
           echo "$(npm -g bin)" >> $GITHUB_PATH
       # -------------------------------------------------------- #
-      # Mumbai
+      # Optimism Mainnet
       # -------------------------------------------------------- #
-      # - name: Mumbai Draw Prizes
-      #   id: drawPrizesMumbai
-      #   uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
-      #   continue-on-error: true
-      #   with:
-      #     run_command: ptv5 compute drawPrizes -o ./prizes -p 0xA32C8f94191c9295634f0034eb2b0e2749e77974 -c 80001
-      # -------------------------------------------------------- #
-      # Sepolia
-      # -------------------------------------------------------- #
-      # - name: Sepolia Draw Prizes
-      #   id: drawPrizesSepolia
-      #   uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
-      #   continue-on-error: true
-      #   with:
-      #     run_command: ptv5 compute drawPrizes -o ./prizes -p 0x858029ed93B97D9015A63A5CC63E5872EE67F88c -c 11155111
+      - name: Optimism Mainnet Draw Prizes
+        id: drawPrizesOptimismMainnet
+        uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
+        continue-on-error: true
+        with:
+          run_command: ptv5 compute drawPrizes -o ./prizes -p 0x8CFFFfFa42407DB9DCB974C2C744425c3e58d832 -c 10
       # -------------------------------------------------------- #
       # Optimism Goerli
       # -------------------------------------------------------- #
@@ -67,8 +58,7 @@ jobs:
       # -------------------------------------------------------- #
       - name: Comment Error
         id: commentError
-        # if: steps.drawPrizesMumbai.outputs.exitcode == 1 || steps.drawPrizesSepolia.outputs.exitcode == 1
-        if: steps.drawPrizesOptimismGoerli.outputs.exitcode == 1
+        if: steps.drawPrizesOptimismGoerli.outputs.exitcode == 1 || steps.drawPrizesOptimismMainnet.outputs.exitcode == 1
         uses: actions/github-script@v5
         continue-on-error: true
         with:
@@ -82,24 +72,15 @@ jobs:
       # Git Commit
       # TODO: Use actions/github-script@v5 to complete commits
       # -------------------------------------------------------- #
-      # - name: Commit Mumbai
-      #   if: steps.drawPrizesMumbai.outputs.runStatus == 'true'
-      #   continue-on-error: true
-      #   run: |
-      #     git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      #     git config --local user.name "github-actions[bot]"
-      #     git pull
-      #     git add ./prizes/80001
-      #     git commit -m "Add draw winners for Mumbai - Draw #${{steps.drawPrizesMumbai.outputs.drawId}}"
-      # - name: Commit Sepolia
-      #   if: steps.drawPrizesSepolia.outputs.runStatus == 'true'
-      #   continue-on-error: true
-      #   run: |
-      #     git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      #     git config --local user.name "github-actions[bot]"
-      #     git pull
-      #     git add ./prizes/11155111
-      #     git commit -m "Add draw for Sepolia draw #${{steps.drawPrizesSepolia.outputs.drawId}}"
+      - name: Commit Optimism Mainnet
+        if: steps.drawPrizesOptimismMainnet.outputs.runStatus == 'true'
+        continue-on-error: true
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull
+          git add ./prizes/420
+          git commit -m "Add draw for Optimism Mainnet draw #${{steps.drawPrizesOptimismMainnet.outputs.drawId}}"
       - name: Commit Optimism Goerli
         if: steps.drawPrizesOptimismGoerli.outputs.runStatus == 'true'
         continue-on-error: true
@@ -108,14 +89,13 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git pull
           git add ./prizes/420
-          git commit -m "Add draw for Optimism Goerli draw #${{steps.drawPrizesSepolia.outputs.drawId}}"
+          git commit -m "Add draw for Optimism Goerli draw #${{steps.drawPrizesOptimismGoerli.outputs.drawId}}"
       # -------------------------------------------------------- #
       # Push Draw Prizes Computation
       # -------------------------------------------------------- #
       - name: Push changes (if required)
         uses: ad-m/github-push-action@master
-        # if: steps.drawPrizesMumbai.outputs.runStatus == 'true' || steps.drawPrizesSepolia.outputs.runStatus == 'true'
-        if: steps.drawPrizesOptimismGoerli.outputs.runStatus == 'true'
+        if: steps.drawPrizesOptimismGoerli.outputs.runStatus == 'true' || steps.drawPrizesOptimismMainnet.outputs.runStatus == 'true'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
