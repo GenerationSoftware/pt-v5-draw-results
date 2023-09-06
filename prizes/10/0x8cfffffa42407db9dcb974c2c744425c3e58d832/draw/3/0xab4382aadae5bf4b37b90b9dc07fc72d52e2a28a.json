@@ -4,7 +4,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 49,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -14,7 +14,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 77,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -24,7 +24,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 148,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -34,7 +34,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 164,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -44,7 +44,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 205,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -54,7 +54,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 240,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -64,7 +64,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 248,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
@@ -74,7 +74,7 @@
     "winner": "0xab4382aadae5bf4b37b90b9dc07fc72d52e2a28a",
     "tier": 4,
     "prizeIndex": 251,
-    "claimed": false,
+    "claimed": true,
     "amount": "114402957854550926",
     "userTwab": "6000000000",
     "totalSupplyTwab": "156265371778"
