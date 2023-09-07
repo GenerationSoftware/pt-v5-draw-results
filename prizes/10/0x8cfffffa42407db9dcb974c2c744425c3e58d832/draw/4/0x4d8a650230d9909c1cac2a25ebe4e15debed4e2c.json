@@ -1,0 +1,152 @@
+[
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 4,
+    "prizeIndex": 169,
+    "claimed": false,
+    "amount": "107701783145833586",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 31,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 364,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 372,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 400,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 419,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 476,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 523,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 540,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 588,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 716,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 798,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 799,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 993,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
+    "tier": 5,
+    "prizeIndex": 1014,
+    "claimed": false,
+    "amount": "23559765063151096",
+    "userTwab": "3070898557",
+    "totalSupplyTwab": "161774563102"
+  }
+]
