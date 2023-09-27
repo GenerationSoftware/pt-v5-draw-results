@@ -494,7 +494,7 @@
     "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
     "tier": 3,
     "prizeIndex": 45,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "4879573875",
     "totalSupplyTwab": "479289613682"
@@ -514,7 +514,7 @@
     "winner": "0x4d477f1aabcfc2fc3fc9b802e861c013e0123ad9",
     "tier": 3,
     "prizeIndex": 22,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -774,7 +774,7 @@
     "winner": "0x6a8076e1b8fc43d5e07d03ba090d7a19e1cdafd1",
     "tier": 3,
     "prizeIndex": 55,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2002009999",
     "totalSupplyTwab": "479289613682"
@@ -814,7 +814,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 3,
     "prizeIndex": 15,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "9999477573",
     "totalSupplyTwab": "479289613682"
@@ -824,7 +824,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 3,
     "prizeIndex": 32,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "9999477573",
     "totalSupplyTwab": "479289613682"
@@ -834,7 +834,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 3,
     "prizeIndex": 52,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "9999477573",
     "totalSupplyTwab": "479289613682"
@@ -1104,7 +1104,7 @@
     "winner": "0x99fa48ccea8a38cde6b437450ff9bbddafaa4fc8",
     "tier": 3,
     "prizeIndex": 14,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2959553390",
     "totalSupplyTwab": "479289613682"
@@ -1134,7 +1134,7 @@
     "winner": "0x9f36a6bb398118bdcd5b1bc3343d8feb6d7d02b9",
     "tier": 3,
     "prizeIndex": 16,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "14980000000",
     "totalSupplyTwab": "479289613682"
@@ -1174,7 +1174,7 @@
     "winner": "0xa1c9ceed5ff78f700dc4930514621843b5fac272",
     "tier": 3,
     "prizeIndex": 21,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -1184,7 +1184,7 @@
     "winner": "0xa1c9ceed5ff78f700dc4930514621843b5fac272",
     "tier": 3,
     "prizeIndex": 29,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -1544,7 +1544,7 @@
     "winner": "0xb9a28ce32dca69ad25e17212bc6d3d753e795aae",
     "tier": 3,
     "prizeIndex": 30,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -1554,7 +1554,7 @@
     "winner": "0xb9a28ce32dca69ad25e17212bc6d3d753e795aae",
     "tier": 3,
     "prizeIndex": 36,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -1614,7 +1614,7 @@
     "winner": "0xcd66a0ae53cc1f58b2e709e5def44d06a19c71ce",
     "tier": 3,
     "prizeIndex": 24,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2378762467",
     "totalSupplyTwab": "479289613682"
@@ -3024,7 +3024,7 @@
     "winner": "0xfd102a750c595d95ace7bdbed17e8b444891610d",
     "tier": 3,
     "prizeIndex": 0,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "479289613682"
@@ -3064,7 +3064,7 @@
     "winner": "0xe0e7b7c5ae92fe94d2ae677d81214d6ad7a11c27",
     "tier": 3,
     "prizeIndex": 56,
-    "claimed": false,
+    "claimed": true,
     "amount": "1134552653912803066",
     "userTwab": "3050327011869208781303",
     "totalSupplyTwab": "3186948592110594152545"
