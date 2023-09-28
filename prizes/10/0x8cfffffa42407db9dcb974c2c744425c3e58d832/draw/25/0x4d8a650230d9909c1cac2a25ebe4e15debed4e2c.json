@@ -2,61 +2,31 @@
   {
     "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
     "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
-    "tier": 3,
-    "prizeIndex": 13,
+    "tier": 4,
+    "prizeIndex": 9,
     "claimed": false,
-    "amount": "1133405313658315186",
+    "amount": "147904432119348532",
     "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
-  },
-  {
-    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
-    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
-    "tier": 3,
-    "prizeIndex": 31,
-    "claimed": false,
-    "amount": "1133405313658315186",
-    "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
+    "totalSupplyTwab": "471828023284"
   },
   {
     "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
     "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
     "tier": 4,
-    "prizeIndex": 56,
+    "prizeIndex": 27,
     "claimed": false,
     "amount": "147904432119348532",
     "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
+    "totalSupplyTwab": "471828023284"
   },
   {
     "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
     "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
     "tier": 4,
-    "prizeIndex": 85,
+    "prizeIndex": 121,
     "claimed": false,
     "amount": "147904432119348532",
     "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
-  },
-  {
-    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
-    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
-    "tier": 4,
-    "prizeIndex": 103,
-    "claimed": false,
-    "amount": "147904432119348532",
-    "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
-  },
-  {
-    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
-    "winner": "0x4d8a650230d9909c1cac2a25ebe4e15debed4e2c",
-    "tier": 4,
-    "prizeIndex": 154,
-    "claimed": false,
-    "amount": "147904432119348532",
-    "userTwab": "7157825279",
-    "totalSupplyTwab": "471825992102"
+    "totalSupplyTwab": "471828023284"
   }
 ]
