@@ -1,8 +1,8 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1696402504894,
-  "updatedAt": 1696402621259,
-  "runtime": 117,
+  "createdAt": 1696403428747,
+  "updatedAt": 1696403511166,
+  "runtime": 83,
   "meta": {
     "numVaults": 4,
     "numTiers": 4,
