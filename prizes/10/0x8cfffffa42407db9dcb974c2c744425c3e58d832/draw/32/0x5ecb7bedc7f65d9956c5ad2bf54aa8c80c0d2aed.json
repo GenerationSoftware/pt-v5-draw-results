@@ -4,7 +4,7 @@
     "winner": "0x5ecb7bedc7f65d9956c5ad2bf54aa8c80c0d2aed",
     "tier": 3,
     "prizeIndex": 45,
-    "claimed": false,
+    "claimed": true,
     "amount": "1211450013753001230",
     "userTwab": "130000000",
     "totalSupplyTwab": "462666039315"
