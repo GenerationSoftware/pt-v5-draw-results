@@ -18,5 +18,15 @@
     "amount": "176053168180748673",
     "userTwab": "500001599999999999",
     "totalSupplyTwab": "20335103732931320939"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0xe08753f2caf86cfa29ce24b1ca765f6f3a25a68d",
+    "tier": 4,
+    "prizeIndex": 223,
+    "claimed": false,
+    "amount": "176053168180748673",
+    "userTwab": "800000000",
+    "totalSupplyTwab": "462666039315"
   }
 ]
