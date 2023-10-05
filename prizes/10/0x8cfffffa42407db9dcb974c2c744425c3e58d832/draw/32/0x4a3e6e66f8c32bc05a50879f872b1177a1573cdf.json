@@ -7,7 +7,7 @@
     "claimed": false,
     "amount": "176053168180748673",
     "userTwab": "2000000000000000000",
-    "totalSupplyTwab": "20335103732931320939"
+    "totalSupplyTwab": "20365441117190580198"
   },
   {
     "vault": "0x1732ce5486ea47f607550ccbe499cd0f894e0494",
@@ -17,6 +17,6 @@
     "claimed": false,
     "amount": "176053168180748673",
     "userTwab": "2000000000000000000",
-    "totalSupplyTwab": "20335103732931320939"
+    "totalSupplyTwab": "20365441117190580198"
   }
 ]
