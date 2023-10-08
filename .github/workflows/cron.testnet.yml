@@ -31,13 +31,13 @@ jobs:
         uses: bahmutov/npm-install@v1
         with:
           install-command: yarn
+      # -------------------------------------------------------- #
+      # Optimism Mainnet
+      # -------------------------------------------------------- #
       - name: Install PoolTogether V5 CLI
         run: |
           npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.45
           echo "$(npm -g bin)" >> $GITHUB_PATH
-      # -------------------------------------------------------- #
-      # Optimism Mainnet
-      # -------------------------------------------------------- #
       - name: Optimism Mainnet Draw Prizes
         id: drawPrizesOptimismMainnet
         uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
@@ -47,12 +47,19 @@ jobs:
       # -------------------------------------------------------- #
       # Optimism Goerli
       # -------------------------------------------------------- #
+      - name: Uninstall Previous PoolTogether V5 CLI
+        run: |
+          npm uninstall -g @generationsoftware/pt-v5-cli
+      - name: Install PoolTogether V5 CLI
+        run: |
+          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.46
+          echo "$(npm -g bin)" >> $GITHUB_PATH
       - name: Optimism Goerli Draw Prizes
         id: drawPrizesOptimismGoerli
         uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
         continue-on-error: true
         with:
-          run_command: ptv5 compute drawPrizes -o ./prizes -p 0xC64bb8Fe4f023B650940D05E79c35454e12A111F -c 420
+          run_command: ptv5 compute drawPrizes -o ./prizes -p 0xb91194FB89561c2Bd7fC26bE68e5EAe5b00f5320 -c 420
       # -------------------------------------------------------- #
       # Comment Error
       # -------------------------------------------------------- #
