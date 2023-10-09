@@ -1,8 +1,8 @@
 {
   "status": "SUCCESS",
-  "createdAt": 1696841671782,
-  "updatedAt": 1696841759234,
-  "runtime": 88,
+  "createdAt": 1696842664721,
+  "updatedAt": 1696842746232,
+  "runtime": 82,
   "meta": {
     "numVaults": 1,
     "numTiers": 3,
@@ -22,7 +22,7 @@
       "2": "1"
     },
     "vaultPortions": {
-      "0x61682fba8394970ce014bcde8ae0ec149c29757c": "999897779470214283"
+      "0x61682fba8394970ce014bcde8ae0ec149c29757c": "999899635261570807"
     }
   }
 }
