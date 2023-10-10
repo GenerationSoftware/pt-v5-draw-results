@@ -1,0 +1,12 @@
+[
+  {
+    "vault": "0x61682fba8394970ce014bcde8ae0ec149c29757c",
+    "winner": "0x09e0c73e9e4442b677d5ee8026f314ea263a3211",
+    "tier": 3,
+    "prizeIndex": 57,
+    "claimed": false,
+    "amount": "885913221717910570",
+    "userTwab": "8365165904",
+    "totalSupplyTwab": "18145388340455"
+  }
+]
