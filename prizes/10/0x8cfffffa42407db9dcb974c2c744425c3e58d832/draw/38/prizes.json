@@ -354,7 +354,7 @@
     "winner": "0x08c7cbc0ad61d556613e708dc7af2d5f108a2c90",
     "tier": 3,
     "prizeIndex": 60,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "3098949115",
     "totalSupplyTwab": "465725531322"
@@ -474,7 +474,7 @@
     "winner": "0x299c8c6d973506fbf9245d95773d6ca1c5ccbfb3",
     "tier": 3,
     "prizeIndex": 32,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2100246562",
     "totalSupplyTwab": "465725531322"
@@ -574,7 +574,7 @@
     "winner": "0x48a7e4f10b34ad5b74eef2ae3f82b69783ec60c4",
     "tier": 3,
     "prizeIndex": 35,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "1000000000",
     "totalSupplyTwab": "465725531322"
@@ -584,7 +584,7 @@
     "winner": "0x48a7e4f10b34ad5b74eef2ae3f82b69783ec60c4",
     "tier": 3,
     "prizeIndex": 53,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "1000000000",
     "totalSupplyTwab": "465725531322"
@@ -854,7 +854,7 @@
     "winner": "0x57a482ea32c7f75a9c0734206f5bd4f9bcb38e12",
     "tier": 3,
     "prizeIndex": 55,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2750000000",
     "totalSupplyTwab": "465725531322"
@@ -1014,7 +1014,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 4,
     "prizeIndex": 93,
-    "claimed": false,
+    "claimed": true,
     "amount": "161893023054547358",
     "userTwab": "7995862965",
     "totalSupplyTwab": "465725531322"
@@ -1024,7 +1024,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 4,
     "prizeIndex": 214,
-    "claimed": false,
+    "claimed": true,
     "amount": "161893023054547358",
     "userTwab": "7995862965",
     "totalSupplyTwab": "465725531322"
@@ -1034,7 +1034,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 4,
     "prizeIndex": 232,
-    "claimed": false,
+    "claimed": true,
     "amount": "161893023054547358",
     "userTwab": "7995862965",
     "totalSupplyTwab": "465725531322"
@@ -1044,7 +1044,7 @@
     "winner": "0x798a59cb1ef7110e91640fc6a8056d029ba8a42e",
     "tier": 4,
     "prizeIndex": 255,
-    "claimed": false,
+    "claimed": true,
     "amount": "161893023054547358",
     "userTwab": "7995862965",
     "totalSupplyTwab": "465725531322"
@@ -1094,7 +1094,7 @@
     "winner": "0x82d746d7d53515b22ad058937ee4d139ba09ff07",
     "tier": 3,
     "prizeIndex": 16,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "465725531322"
@@ -1104,7 +1104,7 @@
     "winner": "0x82d746d7d53515b22ad058937ee4d139ba09ff07",
     "tier": 3,
     "prizeIndex": 33,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "465725531322"
@@ -1254,7 +1254,7 @@
     "winner": "0x95045076fc93a14a4e9b576599479cb4f58a1b11",
     "tier": 3,
     "prizeIndex": 24,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "465725531322"
@@ -2054,7 +2054,7 @@
     "winner": "0xcd66a0ae53cc1f58b2e709e5def44d06a19c71ce",
     "tier": 3,
     "prizeIndex": 12,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2378762467",
     "totalSupplyTwab": "465725531322"
@@ -3534,7 +3534,7 @@
     "winner": "0xfd102a750c595d95ace7bdbed17e8b444891610d",
     "tier": 3,
     "prizeIndex": 54,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "2000000000",
     "totalSupplyTwab": "465725531322"
@@ -3564,7 +3564,7 @@
     "winner": "0xfffb0fe5e806d7a608a23be69b390eb24936db01",
     "tier": 3,
     "prizeIndex": 35,
-    "claimed": false,
+    "claimed": true,
     "amount": "1104358606996531066",
     "userTwab": "3470000000",
     "totalSupplyTwab": "465725531322"
