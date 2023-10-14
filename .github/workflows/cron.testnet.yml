@@ -52,7 +52,7 @@ jobs:
           npm uninstall -g @generationsoftware/pt-v5-cli
       - name: Install PoolTogether V5 CLI
         run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.46
+          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.47
           echo "$(npm -g bin)" >> $GITHUB_PATH
       - name: Optimism Goerli Draw Prizes
         id: drawPrizesOptimismGoerli
