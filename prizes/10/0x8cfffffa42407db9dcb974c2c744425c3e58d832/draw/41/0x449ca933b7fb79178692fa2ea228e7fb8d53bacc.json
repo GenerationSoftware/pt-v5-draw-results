@@ -1,0 +1,72 @@
+[
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 4,
+    "prizeIndex": 99,
+    "claimed": false,
+    "amount": "160573196522319426",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 4,
+    "prizeIndex": 156,
+    "claimed": false,
+    "amount": "160573196522319426",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 5,
+    "prizeIndex": 156,
+    "claimed": false,
+    "amount": "35125386739257374",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 5,
+    "prizeIndex": 188,
+    "claimed": false,
+    "amount": "35125386739257374",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 5,
+    "prizeIndex": 336,
+    "claimed": false,
+    "amount": "35125386739257374",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 5,
+    "prizeIndex": 561,
+    "claimed": false,
+    "amount": "35125386739257374",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  },
+  {
+    "vault": "0x31515cfc4550d9c83e2d86e8a352886d1364e2d9",
+    "winner": "0x449ca933b7fb79178692fa2ea228e7fb8d53bacc",
+    "tier": 5,
+    "prizeIndex": 920,
+    "claimed": false,
+    "amount": "35125386739257374",
+    "userTwab": "4879573875",
+    "totalSupplyTwab": "478132613676"
+  }
+]
