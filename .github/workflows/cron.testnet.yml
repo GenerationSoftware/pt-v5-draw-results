@@ -34,22 +34,22 @@ jobs:
       # -------------------------------------------------------- #
       # Optimism Mainnet
       # -------------------------------------------------------- #
-      - name: Install PoolTogether V5 CLI
-        run: |
-          npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.45
-          echo "$(npm -g bin)" >> $GITHUB_PATH
-      - name: Optimism Mainnet Draw Prizes
-        id: drawPrizesOptimismMainnet
-        uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
-        continue-on-error: true
-        with:
-          run_command: ptv5 compute drawPrizes -o ./prizes -p 0x8CFFFfFa42407DB9DCB974C2C744425c3e58d832 -c 10
+      # - name: Install PoolTogether V5 CLI
+      #   run: |
+      #     npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.45
+      #     echo "$(npm -g bin)" >> $GITHUB_PATH
+      # - name: Optimism Mainnet Draw Prizes
+      #   id: drawPrizesOptimismMainnet
+      #   uses: chuckbergeron/executable-wrapper@f94b435740d6b958c2d7eb76c77657e761819cfe
+      #   continue-on-error: true
+      #   with:
+      #     run_command: ptv5 compute drawPrizes -o ./prizes -p 0x8CFFFfFa42407DB9DCB974C2C744425c3e58d832 -c 10
       # -------------------------------------------------------- #
       # Optimism Goerli
       # -------------------------------------------------------- #
-      - name: Uninstall Previous PoolTogether V5 CLI
-        run: |
-          npm uninstall -g @generationsoftware/pt-v5-cli
+      # - name: Uninstall Previous PoolTogether V5 CLI
+      #   run: |
+      #     npm uninstall -g @generationsoftware/pt-v5-cli
       - name: Install PoolTogether V5 CLI
         run: |
           npm install -g @generationsoftware/pt-v5-cli@0.0.1-beta.47
