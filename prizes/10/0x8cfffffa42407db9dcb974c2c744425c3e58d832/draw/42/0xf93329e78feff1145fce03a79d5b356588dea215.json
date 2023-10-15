@@ -204,7 +204,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 0,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -214,7 +214,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 1,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -224,7 +224,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 7,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -234,7 +234,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 8,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -244,7 +244,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 9,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -254,7 +254,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 10,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -264,7 +264,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 13,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -274,7 +274,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 16,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -284,7 +284,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 18,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -294,7 +294,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 22,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -304,7 +304,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 28,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -314,7 +314,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 29,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -324,7 +324,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 31,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -334,7 +334,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 32,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
@@ -344,7 +344,7 @@
     "winner": "0xf93329e78feff1145fce03a79d5b356588dea215",
     "tier": 4,
     "prizeIndex": 33,
-    "claimed": false,
+    "claimed": true,
     "amount": "214364636961308408",
     "userTwab": "185000000000",
     "totalSupplyTwab": "477517082378"
