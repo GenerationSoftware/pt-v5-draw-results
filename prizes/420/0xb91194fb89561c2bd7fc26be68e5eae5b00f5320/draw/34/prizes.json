@@ -1,0 +1,146 @@
+[
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x2cd3fc20473ce243400b4e997a054ef849998f36",
+    "tier": 1,
+    "prizeIndex": 0,
+    "claimed": false,
+    "amount": "637707019612285175"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x5bfef7e4507a2c54ce466af3d6da6cca26214b3a",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "637707019612285175"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x8d1d1a155d9fc3bed904b8662600fe605149f3ae",
+    "tier": 2,
+    "prizeIndex": 3,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x3fad991bee1c55e06c54774bde83fcdae9d09d1b",
+    "tier": 2,
+    "prizeIndex": 13,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0xdad7666eb829998fb52cd8c130040aeadcd9f36b",
+    "tier": 2,
+    "prizeIndex": 12,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x93ad46f07a684dd256bdc7e00f1940a6fd108ab0",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "637707019612285175"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x67696c1dcc01c1b3430db9cf3a6abd0a2068c0a3",
+    "tier": 2,
+    "prizeIndex": 10,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x870af40ca53497b51a5e0c01982ec97ad2c82887",
+    "tier": 1,
+    "prizeIndex": 2,
+    "claimed": false,
+    "amount": "637707019612285175"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x8002bedc68bc118f56d8731734504a3426f124d3",
+    "tier": 2,
+    "prizeIndex": 3,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0xd41a683b3e6042124bec22e722c079fde872d15e",
+    "tier": 2,
+    "prizeIndex": 10,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x593336d9720564f9a91fa973c0283e444fa98eaf",
+    "tier": 2,
+    "prizeIndex": 14,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0xad97c983f875f99cb6f9574c86031bb78f765644",
+    "tier": 1,
+    "prizeIndex": 1,
+    "claimed": false,
+    "amount": "637707019612285175"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x5e834a7ea86ccb35a17d0f632609914cb100259c",
+    "tier": 2,
+    "prizeIndex": 9,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0xbff49e2335510ca10c7491c11c2d1010b334f0f0",
+    "tier": 2,
+    "prizeIndex": 6,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x21925199568c8bd5623622ff31d719749f920a8d",
+    "winner": "0x4e457b6d41785e46e4533c87226be4a44889ab97",
+    "tier": 2,
+    "prizeIndex": 4,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x32c45e4596931ec5900ea4d2703e7cf961ce2ad6",
+    "winner": "0xf16b36cc3cbbdf8572d1dc5cb276102c5c7703fb",
+    "tier": 2,
+    "prizeIndex": 5,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x32c45e4596931ec5900ea4d2703e7cf961ce2ad6",
+    "winner": "0x6331ffe15946f67d60a5c17390932476205a3ba3",
+    "tier": 2,
+    "prizeIndex": 10,
+    "claimed": false,
+    "amount": "888561062206809"
+  },
+  {
+    "vault": "0x61682fba8394970ce014bcde8ae0ec149c29757c",
+    "winner": "0xc057d0ddc945077454db6778e3416691147e198d",
+    "tier": 2,
+    "prizeIndex": 7,
+    "claimed": false,
+    "amount": "888561062206809"
+  }
+]
